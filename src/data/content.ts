@@ -473,44 +473,43 @@ export const policyGroups = [
 
 export const faqs = [
   {
-    question: "Â¿Alo Morales Beauty Studio atiende a domicilio en Acapulco?",
-    answer: "SÃ­. El servicio a domicilio estÃ¡ disponible en Acapulco y alrededores, pero no estÃ¡ incluido de base en los paquetes. Para paquetes sociales a domicilio se requieren mÃ­nimo 4 paquetes mÃ¡s costo de traslado.",
+    question: "¿Alo Morales Beauty Studio atiende a domicilio en Acapulco?",
+    answer: "Sí. El servicio a domicilio está disponible en Acapulco y alrededores, pero no está incluido de base en los paquetes. Para paquetes sociales a domicilio se requieren mínimo 4 paquetes más costo de traslado.",
   },
   {
-    question: "Â¿CuÃ¡nto cuesta el traslado para servicios a domicilio?",
-    answer: "El costo de traslado depende de la ubicaciÃ³n y normalmente va de $700 a $1,500 MXN. Para confirmar el precio exacto se revisa la direcciÃ³n antes de reservar.",
+    question: "¿Cuánto cuesta el traslado para servicios a domicilio?",
+    answer: "El costo de traslado depende de la ubicación y normalmente va de $700 a $1,500 MXN. Para confirmar el precio exacto se revisa la dirección antes de reservar.",
   },
   {
-    question: "Â¿CÃ³mo puedo apartar una fecha para maquillaje, peinado o paquetes?",
-    answer: "La fecha se aparta por WhatsApp con anticipo. Para paquetes de novia y XV aÃ±os se requiere el 50% del costo del paquete para confirmar la reserva.",
+    question: "¿Cómo puedo apartar una fecha para maquillaje, peinado o paquetes?",
+    answer: "La fecha se aparta por WhatsApp con anticipo. Para paquetes de novia y XV años se requiere el 50% del costo del paquete para confirmar la reserva.",
   },
   {
-    question: "Â¿Los paquetes de novia y XV aÃ±os incluyen prueba de maquillaje y peinado?",
-    answer: "La prueba estÃ¡ incluida sÃ³lo en los paquetes donde se menciona explÃ­citamente. Las pruebas se realizan en el studio antes del dÃ­a del evento.",
+    question: "¿Los paquetes de novia y XV años incluyen prueba de maquillaje y peinado?",
+    answer: "La prueba está incluida sólo en los paquetes donde se menciona explícitamente. Las pruebas se realizan en el studio antes del día del evento.",
   },
   {
-    question: "Â¿QuÃ© pasa si cancelo o necesito reagendar mi cita?",
-    answer: "El anticipo no es reembolsable. Puedes solicitar reagendar si avisas con mÃ­nimo 24 horas de anticipaciÃ³n, sujeto a disponibilidad.",
+    question: "¿Qué pasa si cancelo o necesito reagendar mi cita?",
+    answer: "El anticipo no es reembolsable. Puedes solicitar reagendar si avisas con mínimo 24 horas de anticipación, sujeto a disponibilidad.",
   },
   {
-    question: "Â¿Atienden eventos temprano, antes de las 9:00 a.m.?",
-    answer: "SÃ­. Los servicios antes de las 09:00 a.m. se consideran horario de madrugada y tienen costo extra de $300 MXN por paquete.",
+    question: "¿Atienden eventos temprano, antes de las 9:00 a.m.?",
+    answer: "Sí. Los servicios antes de las 09:00 a.m. se consideran horario de madrugada y tienen costo extra de $300 MXN por paquete.",
   },
   {
-    question: "Â¿Ofrecen fotografÃ­a profesional y contenido para redes sociales?",
-    answer: "SÃ­. El studio ofrece sesiones fotogrÃ¡ficas profesionales, fotografÃ­a para marca personal, contenido para redes sociales, perfiles profesionales y renovaciÃ³n de imagen personal.",
+    question: "¿Ofrecen fotografía profesional y contenido para redes sociales?",
+    answer: "Sí. El studio ofrece sesiones fotográficas profesionales, fotografía para marca personal, contenido para redes sociales, perfiles profesionales y renovación de imagen personal.",
   },
   {
-    question: "Â¿QuÃ© servicios de uÃ±as y manos manejan?",
-    answer: "Los servicios de uÃ±as y manos incluyen manicura combinada, gel semipermanente, rubber gel, builder gel, polygel, uÃ±as acrÃ­licas y diseÃ±os personalizados o nail art.",
+    question: "¿Qué servicios de uñas y manos manejan?",
+    answer: "Los servicios de uñas y manos incluyen manicura combinada, gel semipermanente, rubber gel, builder gel, polygel, uñas acrílicas y diseños personalizados o nail art.",
   },
   {
-    question: "Â¿QuÃ© servicios de pedicura ofrecen?",
-    answer: "Los servicios de pedicura incluyen pedicura con hilo, tratamiento para callosidades e hiperqueratosis, eliminaciÃ³n de cÃ©lulas muertas, pedicura SPA y gel semipermanente en pies.",
+    question: "¿Qué servicios de pedicura ofrecen?",
+    answer: "Los servicios de pedicura incluyen pedicura con hilo, tratamiento para callosidades e hiperqueratosis, eliminación de células muertas, pedicura SPA y gel semipermanente en pies.",
   },
   {
-    question: "Â¿Hay combos de manicura y pedicura?",
-    answer: "SÃ­. Hay combos para manos y pies, como pedicura SPA con manicura combinada y gel semipermanente de un tono en manos y pies.",
+    question: "¿Hay combos de manicura y pedicura?",
+    answer: "Sí. Hay combos para manos y pies, como pedicura SPA con manicura combinada y gel semipermanente de un tono en manos y pies.",
   },
 ];
-
