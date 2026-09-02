@@ -1,0 +1,27 @@
+Tabla descriptiva de imágenes — Alo Morales Beauty Studio
+
+| # | Nombre del archivo | Tipo de imagen | Descripción visual | Uso recomendado |
+|---|---|---|---|---|
+| 1 | Copia de Asset 2@5x.png | Logo principal vertical | Logo en blanco y negro con texto “Alo Morales” y subtítulo “Beauty Studio”. Composición elegante, minimalista y editorial. | Portada, branding, encabezado web, tarjetas digitales. |
+| 2 | Copia de Asset 3@3x.png | Logo horizontal | Versión amplia del logo “Alo Morales Beauty Studio”, con mayor presencia del nombre principal. | Banner web, portada de redes, encabezado de catálogo. |
+| 3 | Copia de Asset 4@5x.png | Logo / variación de marca | Versión alternativa del logotipo en formato amplio o recortado. | Identidad visual, fondos claros, branding secundario. |
+| 4 | Copia de Asset 5@5x.png | Logo / variación de marca | Otra variante del logotipo de Alo Morales Beauty Studio. | Uso en papelería, redes o material promocional. |
+| 5 | Copia de Copia de 4.png | Behind the scenes maquillaje | Maquillista aplicando maquillaje a una clienta frente a un espejo dorado. Ambiente profesional, íntimo y elegante. | Sección “Experiencia”, redes sociales, contenido de confianza. |
+| 6 | Copia de Copia de Copia de POST IG MARCA AGUA (2).png | Maquillaje social / XV años | Retrato frontal de clienta con tiara, ondas marcadas, maquillaje rosa glam y labios gloss. | Portafolio de maquillaje social, XV años, promociones. |
+| 7 | Copia de Copia de Copia de POST IG MARCA AGUA (3).png | Maquillaje social glam | Retrato con ojos cerrados mostrando sombras rosadas brillantes, delineado y ondas con tiara. | Mostrar detalle de ojos, portafolio de maquillaje glam. |
+| 8 | Copia de DSC_8095.jpg | Sesión editorial / backstage | Clienta en estudio fotográfico con estilista acomodando el cabello. Look moderno con blazer negro y cabello lacio. | Branding profesional, contenido editorial, redes. |
+| 9 | Copia de este en el pecho 7cm aprox-01.png | Monograma AM | Logo tipo monograma “AM” dentro de un arco, en fondo negro. Estilo elegante y premium. | Marca de agua, uniforme, íconos, stories destacadas. |
+| 10 | Copia de POST IG MARCA AGUA (1).png | Maquillaje de novia | Retrato de novia con velo, joyería brillante, delineado definido y labios nude gloss. | Portafolio bridal, página de servicio de novias. |
+| 11 | Copia de POST IG MARCA AGUA (2).png | Maquillaje de novia lateral | Novia con velo en pose lateral, maquillaje suave glam, piel luminosa y accesorios elegantes. | Campañas bridal, catálogo de novias, reels. |
+| 12 | Copia de POST IG MARCA AGUA.png | Maquillaje de novia editorial | Novia con velo y guante transparente, mirada directa, maquillaje sofisticado y elegante. | Imagen hero para servicio de bridal makeup. |
+| 13 | Facetune_18-09-2023-23-06-38.JPG | Maquillaje glam rubio | Retrato con cabello rubio ondulado, maquillaje cálido, piel luminosa y fondo beige. | Portafolio social, maquillaje glam de noche. |
+| 14 | IMG_0053.JPG | Maquillaje glam con ondas | Retrato con cabello castaño/rubio ondulado, vestido vino, piel glow y labios gloss. | Promoción de maquillaje social, catálogo premium. |
+| 15 | Copia de Copia de 4 (1).png | Peinado con ondas | Imagen de espalda mostrando cabello rubio con ondas definidas y bata satinada. | Portafolio de peinado, sección “Hair Styling”. |
+| 16 | Copia de Copia de Copia de 4(1).png | Estación de maquillaje | Tocador profesional con espejo iluminado, productos, brochas, silla negra y detalles dorados. | Página “Studio”, mostrar instalaciones, confianza visual. |
+| 17 | Copia de Copia de Copia de 4.png | Estación de maquillaje duplicada | Misma estación profesional con espejo iluminado y productos organizados. | Recurso alternativo para web o redes; puede omitirse si se busca evitar repetición. |
+| 18 | IMG_8608(1).jpg | Retrato editorial glam | Clienta con cabello largo lacio, guante negro, vestido azul brillante y pose editorial. | Portafolio de maquillaje para sesión fotográfica. |
+| 19 | IMG_8608.jpg | Retrato editorial duplicado | Misma imagen editorial de clienta con guante negro y vestido azul. | Alternativa para edición/corte; evitar duplicar en una misma galería. |
+| 20 | Copia de 4.png | Servicio integral en estudio | Dos estilistas atendiendo a una clienta: una trabaja cabello y otra maquillaje. Ambiente de preparación completo. | Mostrar servicio completo de maquillaje + peinado, página de experiencia. |
+
+Resumen visual:
+La colección comunica una marca elegante, femenina, premium y profesional, enfocada en maquillaje social, novias, XV años, sesiones editoriales y peinado. Las mejores imágenes para portada serían el logo horizontal, el retrato de novia con velo, la estación de maquillaje y el behind the scenes con clienta frente al espejo.
